@@ -1,6 +1,11 @@
 
 # react-native-kakao-signin
 
+
+## ** https://github.com/sunyrora/react-native-kakao-signin 에서 deprecated된 메서드 삭제한 버전입니다. ***
+
+
+
 ## Getting started
 
 `$ npm install react-native-kakao-signin --save`
